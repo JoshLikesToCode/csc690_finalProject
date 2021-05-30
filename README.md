@@ -1,4 +1,4 @@
-# csc690_finalProject
+# iOS Flashcards Application
 Japanese Flash Card App
 
 Must Have:
